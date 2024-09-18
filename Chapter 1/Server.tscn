@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bdj51rtsxhiu"]
+
+[ext_resource type="Script" path="res://Chapter 1/server.gd" id="1_eqlx2"]
+
+[node name="Server" type="Node"]
+script = ExtResource("1_eqlx2")
